@@ -28,7 +28,7 @@ Save the unity file and take screenshot.
 Close the Unity project.
 
 ## Program:
-```
+```c#
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
